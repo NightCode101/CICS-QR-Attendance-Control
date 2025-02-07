@@ -1,22 +1,23 @@
-# CICS-QR-Attendance-Control
+# Cagayan State University Piat Campus Attendance Control App
+
 ![](https://img.shields.io/github/release/pandao/editor.md.svg)
 
-Cagayan State University Piat Campus Attendance Control App
-
-![](Assets/logo.png)
-
-Features
+**Features**
   - [x] Scan QR Code
     - Check-In
     - Check-Out
   - [x] Export into csv
   - [x] Delete List
     - Delete All
-    - Delete One by One 
+    - Delete One by One
+  - [x] Present Counter
   - [x] Continous Scanning
   - [x] Auto Detection
   - [x] Repeated Code Alarm
-  - [x] Cameera Selection
+  - [x] Font Size
+  - [x] Camera Selection
+    - Front Camera
+    - Back Camera
   - [x] Date & Time Format
   - [ ] Acquire Block Delete Feature
     - Requires Password To Delete What Is On The List 
@@ -24,7 +25,11 @@ Features
 
 > **USER INTERFACE**
 
-![](Assets/APP%20UI%201.jpg)
-![](Assets/APP%20UI%202.jpg)
-![](Assets/APP%20UI%203.jpg)
+![](Assets/UI_1.jpg)
+![](Assets/UI_2.jpg)
+![](Assets/UI_3.jpg)
+![](Assets/UI_4.jpg)
+
+
+> :heart: Thanks to [CPDH APPS](https://play.google.com/store/apps/dev?id=8046825376537362807&hl=en) for the original app i ported/edited "[QR Attendance Control](https://play.google.com/store/apps/details?id=com.cpdhdevs.qrattendancecontrol&hl=en)"
 

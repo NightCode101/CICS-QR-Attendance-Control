@@ -1,7 +1,7 @@
 # Cagayan State University Piat Campus Attendance Control App
 ### [College Of Information And Computing Sciences](https://www.facebook.com/bsitpiat)
 
-![](https://img.shields.io/github/release/pandao/editor.md.svg)
+![](https://img.shields.io/badge/Release-V1-orange)
 
 **Features**
   - [x] Scan QR Code

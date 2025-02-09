@@ -25,10 +25,10 @@
 
 > **USER INTERFACE**
 
-![](Assets/UI_1.jpg)
-![](Assets/UI_2.jpg)
-![](Assets/UI_3.jpg)
-![](Assets/UI_4.jpg)
+![](https://github.com/NightCode101/CICS-QR-Attendance-Control/blob/main/Assets/UI_1.jpg)
+![](https://github.com/NightCode101/CICS-QR-Attendance-Control/blob/main/Assets/UI_2.jpg)
+![](https://github.com/NightCode101/CICS-QR-Attendance-Control/blob/main/Assets/UI_3.jpg)
+![](https://github.com/NightCode101/CICS-QR-Attendance-Control/blob/main/Assets/UI_4.jpg)
 
 
 > :heart: Thanks to [CPDH APPS](https://play.google.com/store/apps/dev?id=8046825376537362807&hl=en) for the original app i ported/edited "[QR Attendance Control](https://play.google.com/store/apps/details?id=com.cpdhdevs.qrattendancecontrol&hl=en)"

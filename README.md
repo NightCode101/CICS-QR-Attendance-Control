@@ -5,8 +5,8 @@
 
 **Features**
   - [x] Scan QR Code
-    - Check-In
-    - Check-Out
+    - Time-In
+    - Time-Out
   - [x] Export into csv
   - [x] Delete List
     - Delete All

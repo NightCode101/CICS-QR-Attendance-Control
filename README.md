@@ -3,6 +3,11 @@
 
 ![](https://img.shields.io/badge/Release-V1-orange)
 
+> **Logo**
+ 
+![](Assets/Logo.png)
+
+
 **Features**
   - [x] Scan QR Code
     - Time-In
